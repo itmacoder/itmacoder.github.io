@@ -247,7 +247,7 @@ gitment:
 gitalk:
     owner: itmacoder
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: 322005583bc739879702
+    clientSecret: 88e24d04377a5140c8ea431283c5a032bb12993b
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
