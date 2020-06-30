@@ -241,8 +241,8 @@ gitment:
     owner: itmacoder
     repo: blog-comments
     oauth:
-        client_id: 322005583bc739879702
-        client_secret: 88e24d04377a5140c8ea431283c5a032bb12993b
+        client_id: b5f498398a649e8939fd
+        client_secret: ce6542af2c43673bc924c4cec5bf5c0556658085
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: itmacoder
