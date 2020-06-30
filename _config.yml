@@ -8,7 +8,7 @@
 # Site settings
 title:  itmacoder
 subtitle: 分享技术，品味人生
-name: itmacoder 
+name: itmacoder
 email: dangdoaliyun.com
 description: 本站是年华已逝不爱财的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
 keywords: itmacoder,年华已逝不爱财,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
@@ -241,8 +241,8 @@ gitment:
     owner: itmacoder
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 322005583bc739879702
+        client_secret: 88e24d04377a5140c8ea431283c5a032bb12993b
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: itmacoder
