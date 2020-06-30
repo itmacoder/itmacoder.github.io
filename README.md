@@ -11,4 +11,4 @@
 
 ## 我的微信公众号
 
-![](http://www.itmacoder.com/assets/images/keeppuresmile_430.jpg)
+![](http://www.itmacoder.com/assets/images/itmacoder.png)
