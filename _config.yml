@@ -93,10 +93,6 @@ navs:
     href: /
     label: Home
 
-  -
-    href: /cartoon.html
-    label: Cartoon
-    target: _self
 
   -
     href: /spring-boot.html
@@ -125,21 +121,6 @@ navs:
       -
         subHref: http://www.justdojava.com
         subLabel: Java 极客技术
-        target: _blank
-
-  -
-    
-    href: /python.html
-    label: Python
-    subnav:
-
-      -
-        subHref: /python.html
-        subLabel: Python 教程
-        
-      -
-        subHref: http://www.justdopython.com
-        subLabel: Python 技术
         target: _blank
 
   -
